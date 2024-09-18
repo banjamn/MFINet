@@ -1,2 +1,2 @@
 # MFINet
-a salient object detection model
+This is a multimodel salient object detection model.
